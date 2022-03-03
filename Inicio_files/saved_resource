@@ -1,0 +1,18 @@
+getIP({
+   "businessName" : "",
+   "businessWebsite" : "",
+   "city" : "Caracas",
+   "continent" : "South America",
+   "country" : "Venezuela",
+   "countryCode" : "VE",
+   "ipName" : "",
+   "ipType" : "Residential",
+   "isp" : "Corporacion Digitel C.A.",
+   "lat" : "10.48801",
+   "lon" : "-66.87919",
+   "org" : "Corporacion Digitel C.A.",
+   "query" : "186.167.251.64",
+   "region" : "Distrito Federal",
+   "status" : "success"
+}
+);
